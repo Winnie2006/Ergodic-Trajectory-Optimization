@@ -1,0 +1,6 @@
+use_ergodic: false
+use_connection: false
+
+T: 50
+learning_rate: 0.01
+max_iter: 100
